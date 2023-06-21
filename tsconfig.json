@@ -21,7 +21,8 @@
       "@app/extras": ["libs/extras/src"],
       "@app/extras/*": ["libs/extras/src/*"],
       "@app/auth": ["libs/auth/src"],
-      "@app/auth/*": ["libs/auth/src/*"]
+      "@app/auth/*": ["libs/auth/src/*"],
+      "@data/*": ["src/data/*"],
     }
   }
 }
